@@ -1,13 +1,13 @@
 const demo_app = {
-  title: "You've successfully signed in the live preview!",
-  subtitle: 'Here is your user information:',
-  username: 'Username: ',
-  user_id: 'User ID: ',
-  sign_out: 'Sign out the live preview',
-  continue_explore: 'Or continue to explore',
-  customize_sign_in_experience: 'Customize sign-in experience',
-  enable_passwordless: 'Enable passwordless',
-  add_social_connector: 'Add social connector',
+  title: "Je bent succesvol aangemeld voor de live preview!",
+  subtitle: 'Hier is je gebruikersinformatie:',
+  username: 'Gebruikersnaam: ',
+  user_id: 'Gebruikers-ID: ',
+  sign_out: 'Uitloggen uit de live preview',
+  continue_explore: 'Of ga verder met verkennen',
+  customize_sign_in_experience: 'Aanmeldingservaring aanpassen',
+  enable_passwordless: 'Wachtwoordloos inloggen inschakelen',
+  add_social_connector: 'Voeg een sociale connector toe',
 };
 
 export default Object.freeze(demo_app);
