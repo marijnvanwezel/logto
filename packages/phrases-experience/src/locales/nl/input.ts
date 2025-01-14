@@ -1,11 +1,11 @@
 const input = {
-  username: 'Username',
-  password: 'Password',
-  email: 'Email',
-  phone_number: 'Phone number',
-  confirm_password: 'Confirm password',
-  search_region_code: 'Search region code',
-  backup_code: 'Backup code',
+  username: 'Gebruikersnaam',
+  password: 'Wachtwoord',
+  email: 'E-mailadres',
+  phone_number: 'Telefoonnummer',
+  confirm_password: 'Wachtwoord bevestigen',
+  search_region_code: 'Regiocode zoeken',
+  backup_code: 'Back-upcode',
 };
 
 export default Object.freeze(input);
