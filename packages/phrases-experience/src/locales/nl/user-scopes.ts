@@ -1,14 +1,14 @@
 const user_scopes = {
   descriptions: {
-    custom_data: 'Your custom data',
-    email: 'Your email address',
-    phone: 'Your phone number',
-    profile: 'Your name, username, avatar, and other profile info',
-    roles: 'Your roles',
-    identities: 'Your linked social identities',
-    'urn:logto:scope:organizations': 'Your organizations info',
-    'urn:logto:scope:organization_roles': 'Your organization roles',
-    address: 'Your address',
+    custom_data: 'Je aangepaste gegevens',
+    email: 'Je e-mailadres',
+    phone: 'Je telefoonnummer',
+    profile: 'Je naam, gebruikersnaam, profielfoto en andere profielinformatie',
+    roles: 'Je rollen',
+    identities: 'Je gelinkte accounts',
+    'urn:logto:scope:organizations': 'Je organisatieinformatie',
+    'urn:logto:scope:organization_roles': 'Je organisatierollen',
+    address: 'Je adres',
   },
 };
 
