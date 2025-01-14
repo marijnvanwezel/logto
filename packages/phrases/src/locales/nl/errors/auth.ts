@@ -1,12 +1,12 @@
 const auth = {
-  authorization_header_missing: 'Authorization header is missing.',
-  authorization_token_type_not_supported: 'Authorization type is not supported.',
-  unauthorized: 'Unauthorized. Please check credentials and its scope.',
-  forbidden: 'Forbidden. Please check your user roles and permissions.',
-  expected_role_not_found: 'Expected role not found. Please check your user roles and permissions.',
-  jwt_sub_missing: 'Missing `sub` in JWT.',
-  require_re_authentication: 'Re-authentication is required to perform a protected action.',
-  exceed_token_limit: 'Token limit exceeded. Please contact your administrator.',
+  authorization_header_missing: 'Autorisatieheader ontbreekt.',
+  authorization_token_type_not_supported: 'Autorisatietype wordt niet ondersteund.',
+  unauthorized: 'Ongeautoriseerd. Controleer de inloggegevens en hun scope.',
+  forbidden: 'Verboden. Controleer uw gebruikersrollen en rechten.',
+  expected_role_not_found: 'Verwachte rol niet gevonden. Controleer uw gebruikersrollen en rechten.',
+  jwt_sub_missing: 'Ontbrekende `sub` in JWT.',
+  require_re_authentication: 'Om een beveiligde actie uit te voeren, is her-authenticatie vereist.',
+  exceed_token_limit: 'Tokenlimiet overschreden. Neem contact op met uw beheerder.',
 };
 
 export default Object.freeze(auth);
